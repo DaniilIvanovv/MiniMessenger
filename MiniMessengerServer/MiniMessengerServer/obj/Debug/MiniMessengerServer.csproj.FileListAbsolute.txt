@@ -1,0 +1,7 @@
+C:\Users\Daniil\source\repos\MiniMessengerServer\MiniMessengerServer\bin\Debug\MiniMessengerServer.exe.config
+C:\Users\Daniil\source\repos\MiniMessengerServer\MiniMessengerServer\bin\Debug\MiniMessengerServer.exe
+C:\Users\Daniil\source\repos\MiniMessengerServer\MiniMessengerServer\bin\Debug\MiniMessengerServer.pdb
+C:\Users\Daniil\source\repos\MiniMessengerServer\MiniMessengerServer\obj\Debug\MiniMessengerServer.csproj.AssemblyReference.cache
+C:\Users\Daniil\source\repos\MiniMessengerServer\MiniMessengerServer\obj\Debug\MiniMessengerServer.csproj.CoreCompileInputs.cache
+C:\Users\Daniil\source\repos\MiniMessengerServer\MiniMessengerServer\obj\Debug\MiniMessengerServer.exe
+C:\Users\Daniil\source\repos\MiniMessengerServer\MiniMessengerServer\obj\Debug\MiniMessengerServer.pdb
